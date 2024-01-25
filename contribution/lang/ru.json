@@ -9104,7 +9104,7 @@
  	 	 	 	 	"player",
  	 	 	 	 	"item"
  	 	 	 	],
- 	 	 	 	"trans": "🎉congratulation! ${player} получил ${item}!",
+ 	 	 	 	"trans": "🎉Поздравляем! ${player} получил ${item}!",
  	 	 	 	"eng": "🎉Congratulation! ${player} received ${item}!"
  	 	 	}
  	 	}
